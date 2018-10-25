@@ -32,3 +32,5 @@ net_ptr->CopyTrainedLayersFrom(modelparams);
 
 then you can use the model as before
 ```
+**tips**:
+I am using nvcaffe, maybe have some different as the original caffe
